@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "The 30 Day Writing Challenge"
-date:   2016-04-06 22:00:00 +0000
+date:   2016-04-06 22:12:00 +0100
 categories: Writing Challenge
 ---
 Ok, so first of all I have an apology to make. When I first saw Marc's tweet about the 30 day writing challenge I had a quick skim of the title and assumed this was something Marc was taking on himself for a good cause or charity. So of course I scrolled down the bottom of his web page to pledge my full support! 
 
-It was only when I received Marc's confirmation email that it suddenly dawned on me that I might have to do something! I had to take part in a 30 day writing challenge! I admit that at first I thought, nah, this isn’t for me. But then I had a think about it and the things I could write about and thought, why the hell not!
+It was only when I received Marc's confirmation email that it suddenly dawned on me that I might have to do something! I had to take part in a 30 day writing challenge! I admit that at first I thought, nah, this isn’t for me. But then I had a think about it and the subjects I could write about I thought, why the hell not!
 
-<h3>What is the 30 day writting chalenge</h3>
-Exactly what it says on the tin really. It's a writting changle set up by <a href="https://twitter.com/marcjenkins">Marc Jenkins</a> to try and encourage thecninal people to write more. It's taking place through the 30 days of April 2016 and participents are inspired into creative writing thanks to regular emails from Marc full of tips and insparation. 
+<h3>What is the 30 day writting chalenge?</h3>
+Exactly what it says on the tin really. It's a writting changle set up by <a href="https://twitter.com/marcjenkins" target="_blank">Marc Jenkins</a> to try and encourage technical people to write more. It's taking place through the 30 days of April 2016 and participents are inspired into creative writing thanks to regular emails from Marc, full of tips and insparation. 
 
 <h3>What are my targets?</h3>
 Having not written a blog before my aim is to write 1 to 2 pieces a week. I have a number of posts in mind that should keep me going for a couple of weeks. Then hopefully some inspiration will guide me through the rest of the month.
